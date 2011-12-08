@@ -1,0 +1,11 @@
+@charset "utf-8"; 
+@import url('reset.css');
+
+/* Element Reset */
+body, input, textarea, select, table, button { font-family:Tahoma, Geneva, sans-serif; font-size:12px;}
+img, fieldset { border:0;}
+form, fieldset { margin:0; padding:0;}
+em, address { font-style:normal;}
+button{ margin:0; padding:0; overflow:visible; cursor:pointer;}
+a { text-decoration:none;}
+a:hover, a:active, a:focus {text-decoration:underline;}
