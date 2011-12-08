@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-echo "랄라라?";
+echo "랄라라2";
 ?>
